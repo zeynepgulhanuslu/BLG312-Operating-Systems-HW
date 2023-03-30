@@ -1,0 +1,38 @@
+.DS_Store
+.idea
+cmake-build-debug
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.a
+*.lib
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Build directories
+build/
+dist/
+release/
+
+# Dependencies
+deps/
+
+# Other generated files
+*.d
+*.gcno
+*.gcda
+*.log
+*.swp
