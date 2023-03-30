@@ -14,7 +14,7 @@ This homework contains 2 question.
 
 ### Question 1
 In first question we should create a process tree like below figure:
-![q1](/q1.PNG)
+![q1](./q1.PNG)
 
 You can run q1 with this command: 
 
@@ -28,7 +28,7 @@ Usage: ./q1 <n> where n is depth of right sub-tree. n must be a positive integer
 
 ### Question 2
 In second question we should create a process tree like below figure:
-![q1](/q2.PNG)
+![q1](./q2.PNG)
 
 You can run q2 with this command:
 
