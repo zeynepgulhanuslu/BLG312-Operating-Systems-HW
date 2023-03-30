@@ -2,6 +2,8 @@
 .idea
 cmake-build-debug
 # Compiled object files
+q2
+q1
 *.o
 *.ko
 *.obj
